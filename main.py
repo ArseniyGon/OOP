@@ -11,3 +11,4 @@ class Dog:
         self.age = age
         self.weight = weight
 
+dog = Dog("Roy", 6, 7)
